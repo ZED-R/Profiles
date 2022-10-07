@@ -1,0 +1,45 @@
+payload:
+  # > DMM
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+
+  # > MGS動画
+  - DOMAIN-SUFFIX,mgstage.com
+
+  # > Amazon
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,media-amazon.com
+
+  # > TVer
+  - DOMAIN-SUFFIX,tver.jp
+  - DOMAIN-SUFFIX,interactive-circle.jp
+
+  # > AbemaTV
+  # - USER-AGENT,AbemaTV*
+  - PROCESS-NAME,tv.abema
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,ameba.jp
+  - DOMAIN-SUFFIX,hayabusa.io
+  - DOMAIN-KEYWORD,abematv.akamaized.net
+
+  # > Niconico
+  - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nicodic.jp
+  - DOMAIN-SUFFIX,nicomanga.jp
+  - DOMAIN-SUFFIX,niconico.com
+  - DOMAIN-SUFFIX,nicoseiga.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,simg.jp
+  - DOMAIN-SUFFIX,socdm.com
+
+  # > Hulu(フールー)
+  - PROCESS-NAME,jp.happyon.android
+  - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,prod.hjholdings.tv
+  - DOMAIN-SUFFIX,streaks.jp
+  - DOMAIN-SUFFIX,yb.uncn.jp
