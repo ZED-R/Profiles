@@ -13,12 +13,16 @@ payload:
 
   # > TVer
   - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN-SUFFIX,fout.jp
-  - DOMAIN-SUFFIX,reproio.com
-  - DOMAIN-SUFFIX,mathtag.com
-  - DOMAIN-SUFFIX,nr-data.net
-  - DOMAIN-SUFFIX,treasuredata.com
-  - DOMAIN-SUFFIX,interactive-circle.jp
+  - DOMAIN-SUFFIX,players.brightcove.net
+  - DOMAIN-SUFFIX,edge.api.brightcove.com
+
+  # > U-NEXT
+  - DOMAIN-SUFFIX,unext.jp
+  - DOMAIN-SUFFIX,nxtv.jp
+
+  # > Radiko
+  - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,smartstream.ne.jp
 
   # > AbemaTV
   # - USER-AGENT,AbemaTV*
