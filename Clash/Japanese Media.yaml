@@ -13,7 +13,7 @@ payload:
 
   # > TVer
   - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN-interactive-circle.jp
+  - DOMAIN-SUFFIX,interactive-circle.jp
 
   # > AbemaTV
   # - USER-AGENT,AbemaTV*
