@@ -13,8 +13,11 @@ payload:
 
   # > TVer
   - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN-SUFFIX,interactive-circle.jp
   - DOMAIN-SUFFIX,fout.jp
+  - DOMAIN-SUFFIX,reproio.com
+  - DOMAIN-SUFFIX,mathtag.com
+  - DOMAIN-SUFFIX,treasuredata.com
+  - DOMAIN-SUFFIX,interactive-circle.jp
 
   # > AbemaTV
   # - USER-AGENT,AbemaTV*
