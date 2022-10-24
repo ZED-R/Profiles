@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,mgstage.com
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,media-amazon.com
 
 # > TVer
 DOMAIN-SUFFIX,tver.jp
@@ -27,7 +26,6 @@ DOMAIN-SUFFIX,smartstream.ne.jp
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-KEYWORD,abematv.akamaized.net
