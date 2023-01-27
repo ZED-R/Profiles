@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,abema.tv
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,hayabusa.io
+  - DOMAIN-SUFFIX,p-c3-e.abema-tv.com
   - DOMAIN-KEYWORD,abematv.akamaized.net
 
   # > Niconico
