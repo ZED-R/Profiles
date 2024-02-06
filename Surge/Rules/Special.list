@@ -1,6 +1,3 @@
-# > Dler Cloud
-DOMAIN-SUFFIX,dler.cloud
-
 # > Duet
 USER-AGENT,duet*
 
@@ -19,7 +16,6 @@ PROCESS-NAME,ss-local
 USER-AGENT,Steam*
 DOMAIN,cm.steampowered.com
 DOMAIN,ol.epicgames.com
-// DOMAIN,store.steampowered.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 
@@ -106,6 +102,7 @@ DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
