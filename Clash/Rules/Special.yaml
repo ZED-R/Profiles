@@ -1,7 +1,4 @@
 payload:
-  # > Dler Cloud
-  - DOMAIN-SUFFIX,dler.cloud
-
   # > Epic
   - DOMAIN-KEYWORD,epicgames
 
@@ -17,7 +14,6 @@ payload:
   # - USER-AGENT,Steam*
   - DOMAIN,cm.steampowered.com
   - DOMAIN,ol.epicgames.com
-  # - DOMAIN,store.steampowered.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamserver.net
 
@@ -115,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,redacted.ch
+  - DOMAIN-SUFFIX,sandai.net
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
