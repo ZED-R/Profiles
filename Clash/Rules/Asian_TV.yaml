@@ -28,6 +28,21 @@ payload:
   # - DOMAIN,hboasialive.akamaized.net
   # - DOMAIN,hbogoprod-vod.akamaized.net
   
+  # > JaponX
+  - DOMAIN-KEYWORD,japonx
+  - DOMAIN-KEYWORD,japronx
+  - DOMAIN-SUFFIX,japonx.com
+  - DOMAIN-SUFFIX,japonx.tv
+  - DOMAIN-SUFFIX,japonx.net
+  - DOMAIN-SUFFIX,japonx.vip
+  - DOMAIN-SUFFIX,japronx.com
+  - DOMAIN-SUFFIX,japronx.tv
+  - DOMAIN-SUFFIX,japronx.net
+  - DOMAIN-SUFFIX,japronx.vip
+  - DOMAIN-SUFFIX,x18r.com
+  - DOMAIN-SUFFIX,82fly.com
+  - DOMAIN-SUFFIX,router553.com
+  
   # > JOOX
   - PROCESS-NAME,com.tencent.ibg.joox
   - PROCESS-NAME,com.tencent.ibg.jooxtv
@@ -50,13 +65,6 @@ payload:
   - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,profile.line-scdn.net
-  
-  # > myTV_SUPER
-  # - USER-AGENT,mytv*
-  - DOMAIN-KEYWORD,nowtv100
-  - DOMAIN-KEYWORD,rthklive
-  - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,tvb.com
   
   # > TVBAnywhere
   - DOMAIN-KEYWORD,tvbanywhere
