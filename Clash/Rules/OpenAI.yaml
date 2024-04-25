@@ -28,5 +28,9 @@ payload:
   # > Gemini
   - DOMAIN-SUFFIX,gemini.google.com
 
+  # > Meta AI
+  - DOMAIN,ai.meta.com
+  - DOMAIN-SUFFIX,meta.ai
+
   # > Perplexity
   - DOMAIN-SUFFIX,perplexity.ai
