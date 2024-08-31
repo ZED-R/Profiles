@@ -763,6 +763,9 @@ IP-CIDR,203.104.128.0/20,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
 
+# > PinCong
+DOMAIN-SUFFIX,pincong.rocks
+
 # > Potato Chat
 IP-CIDR,13.251.24.157/24,no-resolve
 IP-CIDR,13.251.41.203/24,no-resolve
