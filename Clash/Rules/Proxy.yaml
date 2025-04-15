@@ -6,6 +6,12 @@ payload:
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,blizzard.com
   
+    # > Dropbox
+  - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,dropboxapi.com
+  - DOMAIN-SUFFIX,com.dropbox.android
+  
   # > Duolingo
   # - USER-AGENT,Duolingo*
   - DOMAIN-KEYWORD,duolingo
