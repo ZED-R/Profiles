@@ -1,6 +1,16 @@
 # > Apple News
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
-# Apple News+ Audio
-URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
+DOMAIN,gateway.icloud.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN,newsletter-edge.apple.com
+DOMAIN,news-sports-events.apple.com
+DOMAIN,news-todayconfig-edge.apple.com
