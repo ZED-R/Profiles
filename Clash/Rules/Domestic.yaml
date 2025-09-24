@@ -1,48 +1,4 @@
 payload:
-   # > Microsoft
-  # - USER-AGENT,Microsoft%20Remote%20Desktop*
-  - DOMAIN-SUFFIX,msftconnecttest.com
-
-  # > Tesla
-  - DOMAIN,tesla-cdn.thron.cn
-  - DOMAIN,tesla-cdn.thron.com
-  - DOMAIN-SUFFIX,solarcity.com
-  - DOMAIN-SUFFIX,tesla.cn
-  - DOMAIN-SUFFIX,tesla.com
-  - DOMAIN-SUFFIX,tesla.com.cn
-  - DOMAIN-SUFFIX,teslamotors.cn
-  - DOMAIN-SUFFIX,teslamotors.com
-  - DOMAIN-SUFFIX,teslamotors.com.cn
-  - DOMAIN-SUFFIX,ts.la
-
-  # > Xunlei
-  # - USER-AGENT,%E8%BF%85%E9%9B%B7
-  - DOMAIN-SUFFIX,xunlei.com
-
-  # > Download
-  - PROCESS-NAME,aria2c.exe
-  - PROCESS-NAME,BitComet.exe
-  - PROCESS-NAME,fdm.exe
-  # - PROCESS-NAME,IDMan.exe
-  - PROCESS-NAME,NetTransport.exe
-  - PROCESS-NAME,qbittorrent.exe
-  - PROCESS-NAME,Thunder.exe
-  - PROCESS-NAME,transmission-daemon.exe
-  - PROCESS-NAME,transmission-qt.exe
-  - PROCESS-NAME,uTorrent.exe
-  - PROCESS-NAME,WebTorrent.exe
-  - PROCESS-NAME,aria2c
-  - PROCESS-NAME,fdm
-  - PROCESS-NAME,Folx
-  - PROCESS-NAME,NetTransport
-  - PROCESS-NAME,qbittorrent
-  - PROCESS-NAME,qbittorrent-nox
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,Transmission
-  - PROCESS-NAME,uTorrent
-  - PROCESS-NAME,WebTorrent
-  - PROCESS-NAME,WebTorrent Helper
-  
   # China Banks
   # > Agricultural Bank of China
   - DOMAIN-SUFFIX,abchina.com
@@ -94,9 +50,6 @@ payload:
 
   # > Sony
   # - USER-AGENT,RemotePlay*
-  - DOMAIN-SUFFIX,playstation.com
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
@@ -136,7 +89,6 @@ payload:
   - DOMAIN-SUFFIX,air-matters.com
   - DOMAIN-SUFFIX,air-matters.io
   - DOMAIN-SUFFIX,aixifan.com
-  - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alicdn.com
@@ -154,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,beatsbydre.com
+  - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,caiyunapp.com
   - DOMAIN-SUFFIX,ccgslb.com
@@ -166,8 +119,6 @@ payload:
   - DOMAIN-SUFFIX,cloudxns.net
   - DOMAIN-SUFFIX,cmct.tv
   - DOMAIN-SUFFIX,cmfu.com
-  - DOMAIN-SUFFIX,cnbeta.com
-  - DOMAIN-SUFFIX,cnbetacdn.com
   - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,cnlang.org
   - DOMAIN-SUFFIX,coolapk.com
@@ -175,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,dct-cloud.com
   - DOMAIN-SUFFIX,didialift.com
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,dler.cloud
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,doubanio.com
   - DOMAIN-SUFFIX,douyin.com
@@ -189,11 +141,10 @@ payload:
   - DOMAIN-SUFFIX,ewqcxz.com
   - DOMAIN-SUFFIX,feng.com
   - DOMAIN-SUFFIX,fir.im
-  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,frdic.com
   - DOMAIN-SUFFIX,fresh-ideas.cc
   - DOMAIN-SUFFIX,gameloft.com
-  - DOMAIN-SUFFIX,garmin.com
+  - DOMAIN-SUFFIX,garmin.cn
   - DOMAIN-SUFFIX,geetest.com
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,goodread.com
@@ -216,6 +167,7 @@ payload:
   - DOMAIN-SUFFIX,ifengimg.com
   - DOMAIN-SUFFIX,images-amazon.com
   - DOMAIN-SUFFIX,img4me.com
+  - DOMAIN-SUFFIX,ipapark.com
   - DOMAIN-SUFFIX,ithome.com
   - DOMAIN-SUFFIX,ixdzs.com
   - DOMAIN-SUFFIX,jd.com
@@ -240,6 +192,7 @@ payload:
   - DOMAIN-SUFFIX,luoo.net
   - DOMAIN-SUFFIX,lxdns.com
   - DOMAIN-SUFFIX,mai.tn
+  - DOMAIN-SUFFIX,meituan.com
   - DOMAIN-SUFFIX,meizu.com
   - DOMAIN-SUFFIX,metatrader4.com
   - DOMAIN-SUFFIX,metatrader5.com
@@ -256,7 +209,6 @@ payload:
   - DOMAIN-SUFFIX,ngabbs.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,nfoservers.com
-  - DOMAIN-SUFFIX,nssurge.com
   - DOMAIN-SUFFIX,nuomi.com
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,ourdvs.com
@@ -286,7 +238,6 @@ payload:
   - DOMAIN-SUFFIX,sinaapp.com
   - DOMAIN-SUFFIX,sinaimg.cn
   - DOMAIN-SUFFIX,sinaimg.com
-  - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,snwx.com
   - DOMAIN-SUFFIX,so.com
@@ -302,6 +253,8 @@ payload:
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,tawk.link
   - DOMAIN-SUFFIX,tawk.to
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tietuku.com
   - DOMAIN-SUFFIX,tmall.com
@@ -318,14 +271,13 @@ payload:
   - DOMAIN-SUFFIX,uxengine.net
   - DOMAIN-SUFFIX,wandoujia.com
   - DOMAIN-SUFFIX,weather.bjango.com
-  - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,webqxs.com
+  - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weico.cc
   - DOMAIN-SUFFIX,weiphone.com
   - DOMAIN-SUFFIX,weiphone.net
-  - DOMAIN-SUFFIX,wenku8.net
   - DOMAIN-SUFFIX,werewolf.53site.com
   - DOMAIN-SUFFIX,wkcdn.com
   - DOMAIN-SUFFIX,xdrig.com
@@ -347,7 +299,8 @@ payload:
   - DOMAIN-SUFFIX,yixia.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,youdao.com
-  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,ysepay.cn
+  - DOMAIN-SUFFIX,ysepay.com
   - DOMAIN-SUFFIX,yunjiasu-cdn.net
   - DOMAIN-SUFFIX,zealer.com
   - DOMAIN-SUFFIX,zgslb.net
