@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,vmdash-cenc.akamaized.net
 
 # > MGS動画
 DOMAIN-SUFFIX,mgstage.com
+DOMAIN-SUFFIX,mgstage.jp
 
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
