@@ -11,6 +11,7 @@ payload:
   # > MGS動画
   - DOMAIN-SUFFIX,mgstage.com
   - DOMAIN-SUFFIX,mgstage.jp
+  - DOMAIN-SUFFIX,prestige-av.com
 
   # > Amazon
   - DOMAIN-SUFFIX,amazon.co.jp
