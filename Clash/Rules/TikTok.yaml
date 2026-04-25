@@ -1,6 +1,5 @@
 payload:
   # > TikTok
-  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
